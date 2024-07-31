@@ -1,4 +1,6 @@
 # newsecond
 this is my second respository
 <br> 
-editinf from remote computer
+editing from remote computer
+<br>
+editing from local computer
